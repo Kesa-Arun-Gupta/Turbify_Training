@@ -1,0 +1,3 @@
+com\infinite\controllers\LoginController.class
+com\infinite\controllers\RegistrationController.class
+com\infinite\db\Hikari.class
